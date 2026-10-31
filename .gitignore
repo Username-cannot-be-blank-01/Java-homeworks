@@ -1,0 +1,14 @@
+*.class
+*.log
+
+# Папки сборщиков
+target/
+build/
+
+# Настройки сред разработки (IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
